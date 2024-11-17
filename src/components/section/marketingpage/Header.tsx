@@ -26,10 +26,10 @@ const HeaderSection: React.FC = () => {
 
           {/* Action Buttons */}
           <div className="flex gap-4">
-            <Button className="btn rounded-2xl">
+            <Button variant={"outline"} className="btn rounded-2xl">
               Sign up
             </Button>
-            <Button className="btn rounded-2xl">
+            <Button variant={"outline"} className="btn rounded-2xl">
               Login
             </Button>
           </div>
