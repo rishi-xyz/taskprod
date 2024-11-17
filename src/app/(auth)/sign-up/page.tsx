@@ -1,8 +1,9 @@
-import React from 'react'
+"use client";
+import { SignupCard } from "@/components/section/authpage/SignupCard" 
 
 const SignupPage = () => {
   return (
-    <div>SignupPage</div>
+    <SignupCard />
   )
 }
 

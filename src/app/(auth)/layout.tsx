@@ -16,7 +16,7 @@ const AuthLayout = ({ children }: AuthLayoutProps) => {
                             Taskprod
                         </h1>
                     </div>
-                    <Button variant={"outline"} className="rounded-xl">
+                    <Button variant={"outline"} className="rounded-xl m-2">
                         Sign Up
                     </Button>
                 </nav>
